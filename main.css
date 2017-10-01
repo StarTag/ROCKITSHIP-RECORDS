@@ -1,0 +1,121 @@
+body {
+    background-color: black;
+}
+
+#image {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid black;
+}
+
+#table {
+    background-color: black;
+    background-image: url("http://1-background.com/images/ultraviolet/ultraviolet-fractal-seamless-background.jpg");
+    color: white;
+    margin-top: -15px;
+}
+
+#nav1 {
+    background-image: url("" );
+    color: white;
+
+
+}
+
+#buttons {
+    text-align: center;
+    ;
+}
+
+#footer2 {
+    padding-top: 15px;
+    background-color: #222;
+    height: 50px;
+    text-align: right;
+    color: black;
+    width: 100%;
+}
+
+.textblock {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/e2/e1/e7/e2e1e7029815107630be93714669cac0.jpg");
+    text-align: center;
+    color: white;
+    border: 2px solid grey;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.boom {
+    background-color: ;
+    color: white;
+    padding-top: 25px;
+    text-align: right;
+}
+
+.music {
+  margin-bottom: 100px;
+    margin-top: 20px;
+    height: 300px;
+    width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+    background-image: url("");
+}
+
+#images {
+    margin-top:25px;
+    border: 2px solid silver;
+    height: 200px;
+    width: 200px;
+}
+
+#box {
+    
+    
+    margin-top: 25px;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/e2/e1/e7/e2e1e7029815107630be93714669cac0.jpg");
+    border: 2px solid white;
+    
+    
+    
+}
+
+#box2 {
+    margin-right: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    margin-top: 25px;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/e2/e1/e7/e2e1e7029815107630be93714669cac0.jpg");
+    border: 2px solid white;
+    padding-bottom: 100px;
+    
+}
+.navbar-brand{
+  color: white !important;
+}
+#video{
+  padding-top: 10px;
+  padding-bottom: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+#text{
+
+text-align: center !important;
+padding-top: 20px;
+
+}
+ 
+.iframes{
+    
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+#bestbox{
+    
+    margin-left: 175px;
+}
